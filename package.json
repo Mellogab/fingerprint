@@ -1,0 +1,14 @@
+{
+  "name": "vxfingerprintjs",
+  "version": "1.0.0",
+  "description": "\u0016\u001b[A\u001b[BProject official for custom finger print\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "fingerprint"
+  ],
+  "author": "Gabriel Melo Costa",
+  "license": "ISC"
+}
